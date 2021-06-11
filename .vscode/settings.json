@@ -1,3 +1,9 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5502,
+    "files.autoSave": "afterDelay",
+    "prettier.enableDebugLogs": true,
+    "prettier.htmlWhitespaceSensitivity": "strict",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.proseWrap": "always"
 }
